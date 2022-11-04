@@ -1,0 +1,44 @@
+[
+    {
+        "image": "https://cdn.discordapp.com/attachments/929107650506010695/1035579925626896415/BIRGHT_BANNER.png",
+        "logo": "https://cdn.discordapp.com/attachments/929107650506010695/1035577417210806423/BIRGHT.png",
+        "title": "Bright",
+        "text": "Experience the advanced Discord, find your server partner now and watch you grow.",
+        "link": "https://bright.ga"
+    },
+    {
+        "image": "https://cdn.discordapp.com/attachments/1011642442245734490/1038053422722719744/image.png",
+        "logo": "https://cdn.discordapp.com/attachments/1011645301737672715/1038052243716444160/rounded_corners.png",
+        "title": "Bots Plus",
+        "text": "Are you ready to advertise your bot? Add your bot to our database and watch it grow.",
+        "link": "https://botsplus.cf"
+    },
+    {
+        "image": "https://cdn.discordapp.com/attachments/1011645301737672715/1038052646482886676/image.png",
+        "logo": "https://cdn.discordapp.com/attachments/1011642442245734490/1038053221148672020/rounded_corners_1.png",
+        "title": "Award",
+        "text": "The most advanced Discord giveaway bot. Giveaway requirements, boost system and more!",
+        "link": "https://awardbot.tk"
+    },
+    {
+        "image": "https://cdn.discordapp.com/attachments/458241188328243201/1038053898281295912/image.png",
+        "logo": "https://cdn.discordapp.com/attachments/458241188328243201/1033320138021273690/67509661_476383956527661_1610366110387929088_n-removebg-preview.png",
+        "title": "Boats",
+        "text": "Discord Bot List and Server List!",
+        "link": "https://boats.gq"
+    },
+    {
+        "image": "https://cdn.discordapp.com/attachments/458241188328243201/1038053834813091851/image.png",
+        "logo": "https://cdn.discordapp.com/attachments/929107650506010695/955037152528445511/Dark_Wish_png.png",
+        "title": "Draconic",
+        "text": "Draconic is a multi-purpose discord bot with modules that you can use.",
+        "link": "https://draconicdash.cf" 
+    },
+    {
+        "image": "https://cdn.discordapp.com/attachments/458241188328243201/1038055231101096017/image.png",
+        "logo": "https://cdn.discordapp.com/attachments/1011642442245734490/1038054550541705256/IMG_1056.png",
+        "title": "UptimeWallet",
+        "text": "UptimeWallet is an uptimer website which you can host your own discord bot.",
+        "link": "https://uptimewallet.cf" 
+    }
+]
